@@ -2,9 +2,9 @@ package fasthttp
 
 import (
 	"bufio"
-	"crypto/tls"
 	"errors"
 	"fmt"
+	tls "github.com/huamang/tls"
 	"io"
 	"net"
 	"strings"
